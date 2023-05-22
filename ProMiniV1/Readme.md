@@ -6,6 +6,8 @@ File is available [here](Promini1.kicad_pcb).
 
 ![2D view](2D.png)
 
+![3D view](3D.png)
+
 ## Bill of Materials
 Bill of materials for completed board:
 (to be updated)
